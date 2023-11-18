@@ -74,7 +74,7 @@ export const Login = () => {
   };
 
   if (isAuthenticated) {
-    return <CenterSpinner />;
+    // return <CenterSpinner />;
   }
 
   return (
