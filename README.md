@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Chakra UI Boiler Plate
+
+🛠️ React Hook forms Installed
+📦 Redux Setup included
 
 This project was in Chakra UI tailwind based with Vite [https://vitejs.dev/] .
 
@@ -41,7 +44,7 @@ Next Generation Frontend Tooling
 
 bulb Instant Server Start
 zap Lightning Fast HMR
-🛠️ Rich Features
+🛠️ Rich Feature
 📦 Optimized Build
 nut_and_bolt Universal Plugin Interface
 key Fully Typed APIs
